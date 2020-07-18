@@ -1,0 +1,20 @@
+##### PREFLIGHT ########
+tap 'homebrew/cask-fonts'
+tap 'homebrew/cask-versions'
+
+##### FONTS #####
+cask 'font-fira-code'
+
+##### PERSONAL #####
+cask 'brave-browser'
+cask '1password'
+cask 'docker'
+cask 'firefox-developer-edition'
+brew 'git'
+cask 'google-chrome'
+cask 'iterm2'
+cask 'itsycal'
+brew 'vim'
+brew 'visual-studio-code'
+brew 'zsh'
+brew 'nodenv'
